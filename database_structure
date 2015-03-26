@@ -1,0 +1,20 @@
+skills table
+  id
+  description
+  grade
+  
+grades table
+  id
+  description
+  from_age
+  to_age
+  
+children table
+  id
+  firstname
+  lastname
+  fullname
+  grade
+  age
+  
+Would be neccesary to study evalation areas to continue defining tables
